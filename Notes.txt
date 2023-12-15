@@ -57,7 +57,7 @@ npm outdated
   
   for running use "npm run dev" because there exist the nodemon
   
- ***express is the framework for nodesjs
+ ***express is the framework for nodesjs(npm i express)
 
 ***install cors for fetch api
 npm i cors
