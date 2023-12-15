@@ -24,3 +24,9 @@ app.post("/login", (req, res) => {
 const PORT = process.env.PORT || 3001;
 
 app.listen(PORT, () => console.log(`server running on ${PORT}`));
+
+
+// type this on browser to get the output
+
+// npm run dev : to run 
+// url:: http://localhost:3001/login.html
